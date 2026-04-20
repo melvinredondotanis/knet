@@ -1,0 +1,62 @@
+# Compiled object files
+*.o
+*.obj
+*.elf
+*.exe
+
+# Compiled static libraries
+*.a
+*.lib
+*.ar
+
+# Compiled dynamic libraries
+*.so
+*.so.*
+*.dylib
+*.dll
+
+# Debug symbols
+*.dSYM/
+*.su
+*.gch
+*.pch
+
+# Dependency files
+*.d
+*.dep
+
+# Build directories
+build/
+dist/
+out/
+bin/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+*.project
+*.cproject
+.settings/
+
+# CMake
+CMakeFiles/
+cmake_build_directory/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Temporary files
+*.tmp
+*.bak
+*.backup
+*.log
+
+# ctags/cscope
+tags
+cscope.out
+cscope.in.out
+cscope.po.out
